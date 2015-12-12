@@ -1,6 +1,6 @@
 //
 //  SequenceHelpers.swift
-//  InstagramSpike
+//  Swift-Extensions
 //
 //  Created by David Elsonbaty on 12/12/15.
 //  Copyright © 2015 David Elsonbaty. All rights reserved.
