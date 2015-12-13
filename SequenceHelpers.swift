@@ -75,7 +75,7 @@ extension SequenceType {
         return nil
     }
     
-    /// - Note: When the condition is met, execution stops
+    /// - Note: Execution stops when the condition is met.
     /// - Note: You cannot use the `break` or `continue` statement to exit the
     ///   current call of the `body` closure or skip subsequent calls.
     /// - Note: Using the `return` statement in the `body` closure will only
